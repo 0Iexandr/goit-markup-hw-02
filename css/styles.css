@@ -198,6 +198,7 @@ body {
 .button-filter-list button:hover,
 .button-filter-list button:focus {
     background: #2196F3;
+    color: #FFFFFF;
 }
 
 .filter-container h3 {
