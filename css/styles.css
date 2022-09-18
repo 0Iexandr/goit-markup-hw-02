@@ -39,6 +39,10 @@ body {
     list-style: none;
 }
 
+#current {
+    color: var(--additional-bg-text-color);
+}
+
 .navigation-list a {
     font-weight: 500;
     line-height: 1.14;
@@ -98,6 +102,7 @@ body {
 }
 
 .our-advantages-list h3 {
+    font-size: 14px;
     font-weight: 700;
     line-height: 1.14;
     text-transform: uppercase;
